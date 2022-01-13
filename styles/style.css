@@ -347,15 +347,15 @@ body {
 
 
 .video_pazzle {
-    background-image: url('./img/videoGame.png');
+    background-image: url('img/videoGame.png');
 }
 
 .photo_pazzle {
-    background-image: url('./img/photoGame.png');
+    background-image: url('img/photoGame.png');
 }
 
 .imag_pazzle {
-    background-image: url('./img/imagGame.png');
+    background-image: url('img/imagGame.png');
 }
 
 .start_item:hover,
