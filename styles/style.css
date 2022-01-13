@@ -347,15 +347,15 @@ body {
 
 
 .video_pazzle {
-    background-image: url('/img/videoGame.png');
+    background-image: url('./img/videoGame.png');
 }
 
 .photo_pazzle {
-    background-image: url('/img/photoGame.png');
+    background-image: url('./img/photoGame.png');
 }
 
 .imag_pazzle {
-    background-image: url('/img/imagGame.png');
+    background-image: url('./img/imagGame.png');
 }
 
 .start_item:hover,
@@ -488,7 +488,7 @@ body {
 }
 .select_item {
     border: .3rem solid rgb(212, 248, 255);
-    background-image: url('/img/orig.jpg');
+    background-image: url('./img/orig.jpg');
 }
 
 .select_item-content {
@@ -606,7 +606,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: url('/img/arrowOnUpdate.svg');
+    background-image: url('./img/arrowOnUpdate.svg');
     position: absolute;
     top: 0;
     animation: scales 1.5s ease infinite;
